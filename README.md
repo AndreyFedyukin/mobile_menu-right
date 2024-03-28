@@ -4,7 +4,7 @@
 
 ### Пример кода мобильного меню с права, при достижении необходимого(750px) брейк пойнта.
 
-Ссылка на макет <https://andreyfedyukin.github.io/mobile_menu-right/>
+Ссылка на макет - <https://andreyfedyukin.github.io/mobile_menu-right/>
 
 ---
 ***Стек технологий применённых при создании данного шаблона:***
